@@ -1,4 +1,4 @@
-# 🏛️ Practice Codes for Basic Econometrics developed by Dr. Yasir Saeed for students of Economitrics
+# 🏛️ Practice Codes for Basic Econometrics developed by Dr. Yasir Saeed for students of Econometrics
 
 Welcome to the official repository for Econometrics and Data Science practice at the Department of Economics, Kohat University of Science & Technology (KUST). 
 
