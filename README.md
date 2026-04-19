@@ -1,4 +1,4 @@
-# 🏛️ KUST Economics & Python Practice Labs
+# 🏛️ Practice Codes for Basic Econometrics developed by Dr. Yasir Saeed for students of Economitrics
 
 Welcome to the official repository for Econometrics and Data Science practice at the Department of Economics, Kohat University of Science & Technology (KUST). 
 
@@ -6,7 +6,7 @@ This space is dedicated to providing MPhil and PhD scholars with reproducible co
 
 ---
 
-## 📂 Available Labs & Templates
+## 📂 Available practice codes
 
 ### 1. Generalized OLS Regression Template
 A reusable Python script for bivariate linear regression. Includes descriptive statistics, scatter plots with regression lines, and diagnostic tests (Breusch-Pagan, QQ Plots, VIF).
